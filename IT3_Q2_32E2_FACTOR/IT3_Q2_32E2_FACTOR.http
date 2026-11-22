@@ -1,0 +1,6 @@
+@IT3_Q2_32E2_FACTOR_HostAddress = http://localhost:5250
+
+GET {{IT3_Q2_32E2_FACTOR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
